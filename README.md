@@ -18,10 +18,10 @@ Trabajo Práctico Grupal 1 de la materia **Desarrollo de Sistemas Web (Front End
 | Nombre y Apellido | Rol / Especialidad | Perfil de GitHub |
 | --- | --- | --- |
 | **Adriana Meyniel** | Analista Funcional & FrontEnd | [@Adrilu-web](https://www.google.com/search?q=https://github.com/Adrilu-web) |
-| **Elías** | Maquetación & Lógica FrontEnd | `[@usuario-elias]` |
-| **Judith** | Maquetación & Responsive | `[@usuario-judith]` |
-| **Magalí** | Estilos CSS & Animaciones | `[@usuario-magali]` |
-| **Silvia** | Desarrollo Web & Lógica JS | `[@usuario-silvia]` |
+| **Elías** | Maquetación & Lógica FrontEnd | `[[ZagaynyElias](https://github.com/ZagaynyElias)]` |
+| **Judith** | Maquetación & Responsive | `[[judith91](https://github.com/judith91)]` |
+| **Magalí** | Estilos CSS & Animaciones | `[[@usuario-magali](https://github.com/pintosmagali)]` |
+| **Silvia** | Desarrollo Web & Lógica JS | `[[sil-graci](https://github.com/sil-graci)]` |
 
 ---
 
